@@ -1,0 +1,33 @@
+*******************************************
+Name:		Dayaveer
+Class:		CS30S
+Assignment:	A0
+*******************************************
+Base10 = 128.0
+Base10 = 0.0
+Base10 = 0.0
+Base10 = 0.0
+Base10 = 0.0
+Base10 = 0.0
+Base10 = 0.0
+Base10 = 1.0
+
+Base10 Total = 129.0
+
+Base10 = 0.0
+Base10 = 0.0
+Base10 = 0.0
+Base10 = 16.0
+Base10 = 8.0
+Base10 = 4.0
+Base10 = 0.0
+Base10 = 1.0
+
+Base10 Total = 29.0
+
+Base10 = 2.0
+Base10 = 1.0
+
+Base10 Total = 3.0
+
+end of processing
